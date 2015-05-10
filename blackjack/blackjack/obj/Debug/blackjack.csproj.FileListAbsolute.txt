@@ -1,0 +1,37 @@
+c:\users\tommy\documents\visual studio 2013\Projects\blackjack\blackjack\bin\Debug\blackjack.exe.config
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\bin\Debug\blackjack.exe
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\bin\Debug\blackjack.pdb
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\obj\Debug\blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\obj\Debug\blackjack.Properties.Resources.resources
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\obj\Debug\blackjack.csproj.GenerateResource.Cache
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\obj\Debug\blackjack.exe
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\obj\Debug\blackjack.pdb
+C:\Users\Tommy\documents\visual studio 2013\Projects\blackjack\blackjack\obj\Debug\blackjack.Form1.resources
+D:\Faks\FINKI\Semestar 2\Визуелно Програмирање\Proektni Zadaca\v1\blackjack\blackjack\blackjack\bin\Debug\blackjack.exe.config
+D:\Faks\FINKI\Semestar 2\Визуелно Програмирање\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.exe
+D:\Faks\FINKI\Semestar 2\Визуелно Програмирање\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.pdb
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\bin\Debug\blackjack.exe.config
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.exe
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.pdb
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\bin\Debug\blackjack.exe
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\bin\Debug\blackjack.pdb
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.csprojResolveAssemblyReference.cache
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.Form1.resources
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.Properties.Resources.resources
+D:\Faks\FINKI\Semestar 2\Vizuelno Programiranje\Proektni Zadaca\v1\blackjack\blackjack\blackjack\obj\Debug\blackjack.csproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\bin\Debug\blackjack.exe.config
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.exe
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.pdb
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\bin\Debug\blackjack.exe
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\bin\Debug\blackjack.pdb
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.Form1.resources
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.Properties.Resources.resources
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.csproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.Menu.resources
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.csproj.ResolveComReference.cache
+C:\Users\Tommy\Documents\blackjack\blackjack\blackjack\obj\Debug\blackjack.Help.resources
