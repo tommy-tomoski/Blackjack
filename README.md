@@ -29,8 +29,8 @@ Help форма
 и изгледа вака:
 
 
-
-public enum Suit { 
+```ruby
+    public enum Suit { 
         Spades,
         Hearts,
         Diamonds,
@@ -73,7 +73,7 @@ public enum Suit {
         }
     }
 
-
+```
 
 
 
