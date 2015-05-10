@@ -102,7 +102,11 @@ public void removeCard(Card card);
 public void removeCard(int position);
 public int getCardCount();    
 public String toString();
+```
 
+Методот public int getValue() ги изминува картите во една рака така што нивната вредност ја додава на вредност value, индикатор на вредноста на раката. Ако се изброила единица во раката таа може да се додаде како 1 или 11 во зависност од вредноста на раката.
+
+```c#
 public int getValue()
 {
     int value;
