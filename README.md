@@ -1,3 +1,2 @@
 # Blackjack
-blackjack
-sdadad
+Проектна задача по визуелно програмирање.
